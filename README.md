@@ -12,6 +12,8 @@ NYC Taxi and Limousine Commission (TLC) : http://www.nyc.gov/html/tlc/html/about
 
 Kaggle : https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
+Download : https://drive.google.com/open?id=1OyOC9y2x4uyT7drXJBOEZ2yRBktiQB8H
+
 ## Details:
 
 File descriptions ● train.csv - the dataset (contains 1458644 trip records)
