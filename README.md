@@ -6,14 +6,17 @@
 
 The dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine Commission (TLC). The data was sampled and cleaned for the purposes of this playground. Based on individual trip attributes, should predict the duration of each trip.
 
-Source:
+## Source:
+
 NYC Taxi and Limousine Commission (TLC) : http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+
 Kaggle : https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
-Details
+## Details:
+
 File descriptions ● train.csv - the dataset (contains 1458644 trip records)
 
-Data fields
+## Data fields
 
 ● id - a unique identifier for each trip
 
