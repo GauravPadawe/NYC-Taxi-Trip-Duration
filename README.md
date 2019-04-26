@@ -2,7 +2,7 @@
 
 # DOMAIN: Transportation
 # NYC Taxi Trip Duration
-# By Gaurav Padawe - 24th October, 2018
+# By Gaurav Padawe - 26th April, 2019
 
 The dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine Commission (TLC). The data was sampled and cleaned for the purposes of this playground. Based on individual trip attributes, should predict the duration of each trip.
 
