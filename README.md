@@ -16,7 +16,9 @@ Download Data : https://drive.google.com/open?id=1OyOC9y2x4uyT7drXJBOEZ2yRBktiQB
 
 ## Details:
 
-File descriptions ● train.csv - the dataset (contains 1458644 trip records)
+File descriptions :
+
+● train.csv - the dataset (contains 1458644 trip records)
 
 ## Data fields
 
